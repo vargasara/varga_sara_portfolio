@@ -36,6 +36,9 @@ footer{
 	color: white;
 	text-decoration: none;
 }
+.menuelem a:hover{
+	color: grey;
+}
 p a{
 	text-decoration: none;
 	color: #cd9ecc;
@@ -63,13 +66,8 @@ p a{
 	min-width: 210px;
 	border-radius: 30px;
 }
-.menuelem a:hover{
-	color: grey;
-}
-.leiras{
-	text-align: center;
 
-}
+
 
 .kepek{
 	text-align: center;
@@ -109,4 +107,8 @@ p a{
 }
 .leiras{
 	margin: 0px 30px 30px 30px;
+}
+.leiras{
+	text-align: center;
+
 }
