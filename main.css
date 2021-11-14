@@ -1,5 +1,6 @@
 * {
 	font-family: 'Bitter', serif;
+	font-weight: 600;
 }
 body{
 	margin: 0;
@@ -37,7 +38,7 @@ footer{
 	text-decoration: none;
 }
 .menuelem a:hover{
-	color: grey;
+	color: #cd9ecc;
 }
 p a{
 	text-decoration: none;
